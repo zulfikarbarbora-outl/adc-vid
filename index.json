@@ -4,7 +4,7 @@
   "sourceRepo": "https://github.com/zulfikarbarbora-outl/virtuosity_drums",
   "previewRepo": "https://github.com/zulfikarbarbora-outl/virtuosity-drums-opus-48",
   "branch": "master",
-  "fileCount": 4844,
+  "fileCount": 4858,
   "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/virtuosity-drums-opus-48/master/",
   "files": [
     {
@@ -53290,6 +53290,160 @@
       "velocity": null,
       "dynamic": null,
       "roundRobin": 2
+    },
+    {
+      "file": "woodblock_lo_vl3_rr3.opus",
+      "name": "woodblock_lo_vl3_rr3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/virtuosity-drums-opus-48/master/woodblock_lo_vl3_rr3.opus",
+      "size": 7997,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "woodblock_lo_vl3_rr4.opus",
+      "name": "woodblock_lo_vl3_rr4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/virtuosity-drums-opus-48/master/woodblock_lo_vl3_rr4.opus",
+      "size": 7930,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "woodblock_lo_vl4_rr1.opus",
+      "name": "woodblock_lo_vl4_rr1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/virtuosity-drums-opus-48/master/woodblock_lo_vl4_rr1.opus",
+      "size": 6832,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "woodblock_lo_vl4_rr2.opus",
+      "name": "woodblock_lo_vl4_rr2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/virtuosity-drums-opus-48/master/woodblock_lo_vl4_rr2.opus",
+      "size": 6761,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "woodblock_lo_vl4_rr3.opus",
+      "name": "woodblock_lo_vl4_rr3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/virtuosity-drums-opus-48/master/woodblock_lo_vl4_rr3.opus",
+      "size": 6969,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "woodblock_lo_vl4_rr4.opus",
+      "name": "woodblock_lo_vl4_rr4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/virtuosity-drums-opus-48/master/woodblock_lo_vl4_rr4.opus",
+      "size": 7667,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "woodblock_lo_vl5_rr1.opus",
+      "name": "woodblock_lo_vl5_rr1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/virtuosity-drums-opus-48/master/woodblock_lo_vl5_rr1.opus",
+      "size": 7591,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "woodblock_lo_vl5_rr2.opus",
+      "name": "woodblock_lo_vl5_rr2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/virtuosity-drums-opus-48/master/woodblock_lo_vl5_rr2.opus",
+      "size": 7640,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "woodblock_lo_vl5_rr3.opus",
+      "name": "woodblock_lo_vl5_rr3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/virtuosity-drums-opus-48/master/woodblock_lo_vl5_rr3.opus",
+      "size": 7819,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "woodblock_lo_vl5_rr4.opus",
+      "name": "woodblock_lo_vl5_rr4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/virtuosity-drums-opus-48/master/woodblock_lo_vl5_rr4.opus",
+      "size": 7683,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "woodblock_lo_vl6_rr1.opus",
+      "name": "woodblock_lo_vl6_rr1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/virtuosity-drums-opus-48/master/woodblock_lo_vl6_rr1.opus",
+      "size": 7843,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "woodblock_lo_vl6_rr2.opus",
+      "name": "woodblock_lo_vl6_rr2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/virtuosity-drums-opus-48/master/woodblock_lo_vl6_rr2.opus",
+      "size": 7758,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "woodblock_lo_vl6_rr3.opus",
+      "name": "woodblock_lo_vl6_rr3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/virtuosity-drums-opus-48/master/woodblock_lo_vl6_rr3.opus",
+      "size": 7611,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "woodblock_lo_vl6_rr4.opus",
+      "name": "woodblock_lo_vl6_rr4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/virtuosity-drums-opus-48/master/woodblock_lo_vl6_rr4.opus",
+      "size": 7670,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
     }
   ],
   "byNote": {
